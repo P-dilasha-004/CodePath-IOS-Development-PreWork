@@ -48,6 +48,7 @@ The video demonstrates the core required features:
    - Beautiful, minimal design
 
 **App Idea**
+
 My idea is a wellness-focused productivity app designed to help students and young professionals manage both their time and mental health. The app combines a to-do list with a mood tracker, allowing users to plan their day while also checking in emotionally. Users can log how they feel throughout the day, and the app will use that data to suggest personalized productivity tips or wellness activities like short meditations, uplifting quotes, or micro-breaks. It would also include gentle reminders, streak tracking for self-care habits, and optional journaling prompts. MindMate aims to make staying organized and staying mentally healthy feel like part of the same system.
 
 ## Notes
